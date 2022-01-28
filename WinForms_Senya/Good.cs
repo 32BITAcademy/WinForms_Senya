@@ -14,7 +14,8 @@ namespace WinForms_Senya
         public Good()
         {
             present = false;
-            name = "";
+            name = "?";
+            
         }
     }
 }
