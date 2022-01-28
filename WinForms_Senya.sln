@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms_Senya", "WinForms_Senya\WinForms_Senya.csproj", "{CEEA3A85-0241-4339-B0FF-723F73C746D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEEA3A85-0241-4339-B0FF-723F73C746D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEEA3A85-0241-4339-B0FF-723F73C746D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEEA3A85-0241-4339-B0FF-723F73C746D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEEA3A85-0241-4339-B0FF-723F73C746D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {732663A8-015B-4040-8E3B-4BD686AD051A}
+	EndGlobalSection
+EndGlobal
